@@ -7,11 +7,12 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            The Tech Brew
+tagline:          'Linux and Python in the Cloud'
 url:              http://getpoole.com
 paginate:         1
-baseurl:          http://jasonrhaas.github.io/poole/
+# baseurl:          http://jasonrhaas.github.io/poole/
+baseurl:          /
 author:
   name:           Mark Otto
   url:            https://twitter.com/mdo
